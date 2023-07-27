@@ -1,1 +1,3 @@
-# SOEN6431-Software-Comprehension-and-Maintenance
+# SOEN6431 - Software Comprehension and Maintenance
+
+Professor : Juergen Rilling
